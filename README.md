@@ -5,3 +5,5 @@
 
 小弟感激不尽！
 
+
+![Aaron Swartz](https://github.com/ziTai/ZT_IndexBar/raw/master/ZT_indexBar.gif)
